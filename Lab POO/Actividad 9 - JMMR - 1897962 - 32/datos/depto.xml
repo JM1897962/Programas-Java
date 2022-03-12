@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<datos>
+    <contacto>
+        <nombre>Juan</nombre>
+        <numero>8112541523</numero>
+        <correo>juanma</correo>
+        <direccion>Duque</direccion>
+    </contacto>
+</datos>
